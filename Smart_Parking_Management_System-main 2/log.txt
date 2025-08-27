@@ -1,0 +1,4 @@
+[2025-04-27 09:36:32] RESERVE: User U1 (e) reserved spot 1
+[2025-04-27 09:36:48] CANCEL: User U1 (e) cancelled reservation for spot 1
+[2025-04-27 09:37:10] PARK: User U1 (e) parked at spot 1
+[2025-04-27 09:38:04] CHECKOUT: User U1 (e) checked out from spot 1
